@@ -22,7 +22,7 @@ def check(player, computer):
         return 1
 
 while True:
-    print(""" Enter:
+    print(""" 
     0 for rock
     1 for paper 
     2 for scissor
